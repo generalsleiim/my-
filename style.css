@@ -1,0 +1,15 @@
+body { background: #f0f0f0; }
+.tab-btn.active { background: #1565c0 !important; color: #fff !important; }
+.model-box { background: #e3f2fd; border-radius: 6px; margin: 10px 0; padding: 10px 15px; }
+.back-btn { margin: 10px 0 20px; }
+.settings-buttons button { margin-left: 8px; }
+.user-row { display: flex; gap: 10px; align-items: center; margin-bottom: 8px; }
+.logout-btn { float: left; background: #f44336; color: #fff; border: none; border-radius: 5px; padding: 6px 16px; cursor: pointer; }
+.dark-mode { background: #23272f !important; color: #eee !important; }
+.dark-mode .model-box { background: #2d3542 !important; }
+.dark-mode .form-control, .dark-mode .form-select { background: #23272f; color: #eee; border-color: #444; }
+.dark-mode .table { color: #eee; }
+.lang-btn { float: right; margin-top: 10px; }
+.stat-card { background: #fff; border-radius: 8px; box-shadow: 0 0 10px #0001; padding: 15px; margin-bottom: 15px; }
+.chart-bar { height: 18px; background: #2196f3; border-radius: 4px; }
+.file-link { font-size: 13px; color: #1565c0; }
